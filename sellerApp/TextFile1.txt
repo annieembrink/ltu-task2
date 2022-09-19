@@ -1,0 +1,4 @@
+
+2 seller/s have reached level 2, 50-99 products
+ Name: annie, ID: 9110150423, District: sthlm, Products: 55
+ Name: bill, ID: 900711, District: bagis, Products: 77
